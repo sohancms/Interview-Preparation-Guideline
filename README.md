@@ -171,9 +171,9 @@ For any inquiries or information, feel free to reach out to me.
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Rumman93" height="30" width="40" />][codeforces]
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rumman93" height="30" width="40" />][leetcode]
 
-[linkedin]: https://www.linkedin.com/in/ahmmed-jubayer-rumman-423699175/
-[codeforces]: https://codeforces.com/profile/Rumman93
-[leetcode]: https://www.leetcode.com/rumman93
+[linkedin]:
+[codeforces]: https://codeforces.com/profile/Adullah_AL_Sohan
+[leetcode]: https://www.leetcode.com/sohancms
 
 ---
 
